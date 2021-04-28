@@ -31,15 +31,9 @@ https://github.com/Alex-Dz/Mi_House_API
 ## Desarrolladores
 #### _(porque si, hay que dar los créditos respectivos)_
 
-Paulino Acuña
-
-Alexander Cárdenas
-
-Sebastián Garzón
-
-Tania Quijano
-
-Juan Santamaría
-
-Alejandra Superlano
-
+- Alejandra Superlano
+- Alexander Cárdenas
+- Juan Santamaría
+- Paulino Acuña
+- Sebastián Garzón
+- Tania Quijano
